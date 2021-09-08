@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>272378874445-m191m4m2dvcljr1a3o9eeb6lfd43a1b1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.272378874445-m191m4m2dvcljr1a3o9eeb6lfd43a1b1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXFyD8PioyAv2xybcomf-ES1NnPg8VSn4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>272378874445</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Kavin-s-Mac.SpaceX-Fan</string>
+	<key>PROJECT_ID</key>
+	<string>spacex-fan-33127</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spacex-fan-33127.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:272378874445:ios:bb8fff75094118b585ea04</string>
+</dict>
+</plist>
