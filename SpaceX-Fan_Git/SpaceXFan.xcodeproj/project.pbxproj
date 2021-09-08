@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5F7E684D880975AC600EA587 /* Pods_SpaceXFan.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08DE56F816F153354BFB2A91 /* Pods_SpaceXFan.framework */; };
 		742E4B20147460E655C87C25 /* Pods_SpaceXFan_SpaceXFanUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 545E8CBF2950C8CA19D67E3F /* Pods_SpaceXFan_SpaceXFanUITests.framework */; };
+		8A620CA626E91025006E5DA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6116FD926E0008B00898B1A /* Assets.xcassets */; };
 		8AFFA33E26E2A3860005C230 /* SpaceXButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFFA33B26E2A3860005C230 /* SpaceXButton.swift */; };
 		8AFFA33F26E2A3860005C230 /* SpeceXLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFFA33C26E2A3860005C230 /* SpeceXLabel.swift */; };
 		8AFFA34026E2A3860005C230 /* SpaceXTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFFA33D26E2A3860005C230 /* SpaceXTextField.swift */; };
@@ -54,7 +55,6 @@
 		B6116FD026E0008A00898B1A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6116FCF26E0008A00898B1A /* SceneDelegate.swift */; };
 		B6116FD526E0008A00898B1A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6116FD326E0008A00898B1A /* Main.storyboard */; };
 		B6116FD826E0008A00898B1A /* SpaceXFan.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B6116FD626E0008A00898B1A /* SpaceXFan.xcdatamodeld */; };
-		B6116FDA26E0008B00898B1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6116FD926E0008B00898B1A /* Assets.xcassets */; };
 		B6116FDD26E0008B00898B1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6116FDB26E0008B00898B1A /* LaunchScreen.storyboard */; };
 		B6116FE826E0008B00898B1A /* SpaceXFanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6116FE726E0008B00898B1A /* SpaceXFanTests.swift */; };
 		B6116FF326E0008B00898B1A /* SpaceXFanUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6116FF226E0008B00898B1A /* SpaceXFanUITests.swift */; };
@@ -595,7 +595,6 @@
 				B605638426E333C100C5A750 /* Raleway-Black.ttf in Resources */,
 				B605637926E333C100C5A750 /* Raleway-ThinItalic.ttf in Resources */,
 				B605637B26E333C100C5A750 /* Raleway-Medium.ttf in Resources */,
-				B6116FDA26E0008B00898B1A /* Assets.xcassets in Resources */,
 				B605638126E333C100C5A750 /* Raleway-SemiBoldItalic.ttf in Resources */,
 				B605638326E333C100C5A750 /* Raleway-Light.ttf in Resources */,
 				B605638726E333C100C5A750 /* Raleway-LightItalic.ttf in Resources */,
@@ -603,6 +602,7 @@
 				B605638926E333C100C5A750 /* Raleway-Italic.ttf in Resources */,
 				B605638A26E333C100C5A750 /* Raleway-Bold.ttf in Resources */,
 				B605637C26E333C100C5A750 /* Raleway-SemiBold.ttf in Resources */,
+				8A620CA626E91025006E5DA6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
