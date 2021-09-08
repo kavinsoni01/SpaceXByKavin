@@ -80,6 +80,7 @@ class RocketsListViewController: BaseViewController {
 extension RocketsListViewController: RocketListViewModelOutputProtocol {
     func didReceive(rocketsInfo: [RocketInfo]) {
         OperationQueue.main.addOperation {
+            self.refreshControl.endRefreshing()
             self.tblRocketList.reloadData()
         }
     }
