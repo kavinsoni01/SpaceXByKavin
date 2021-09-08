@@ -10,7 +10,6 @@
 		5F7E684D880975AC600EA587 /* Pods_SpaceXFan.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08DE56F816F153354BFB2A91 /* Pods_SpaceXFan.framework */; };
 		742E4B20147460E655C87C25 /* Pods_SpaceXFan_SpaceXFanUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 545E8CBF2950C8CA19D67E3F /* Pods_SpaceXFan_SpaceXFanUITests.framework */; };
 		8A620CF326E91552006E5DA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A620CF226E91552006E5DA6 /* Assets.xcassets */; };
-		8A620D0F26E9189D006E5DA6 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A620D0E26E9189D006E5DA6 /* Colors.xcassets */; };
 		8AFFA33E26E2A3860005C230 /* SpaceXButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFFA33B26E2A3860005C230 /* SpaceXButton.swift */; };
 		8AFFA33F26E2A3860005C230 /* SpeceXLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFFA33C26E2A3860005C230 /* SpeceXLabel.swift */; };
 		8AFFA34026E2A3860005C230 /* SpaceXTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFFA33D26E2A3860005C230 /* SpaceXTextField.swift */; };
@@ -93,7 +92,6 @@
 		3592B8056D4B513F8ACAF6CD /* Pods-SpaceXFan.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpaceXFan.debug.xcconfig"; path = "Target Support Files/Pods-SpaceXFan/Pods-SpaceXFan.debug.xcconfig"; sourceTree = "<group>"; };
 		545E8CBF2950C8CA19D67E3F /* Pods_SpaceXFan_SpaceXFanUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SpaceXFan_SpaceXFanUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A620CF226E91552006E5DA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8A620D0E26E9189D006E5DA6 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		8AFFA33B26E2A3860005C230 /* SpaceXButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpaceXButton.swift; sourceTree = "<group>"; };
 		8AFFA33C26E2A3860005C230 /* SpeceXLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeceXLabel.swift; sourceTree = "<group>"; };
 		8AFFA33D26E2A3860005C230 /* SpaceXTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpaceXTextField.swift; sourceTree = "<group>"; };
@@ -336,7 +334,6 @@
 			isa = PBXGroup;
 			children = (
 				8A620CF226E91552006E5DA6 /* Assets.xcassets */,
-				8A620D0E26E9189D006E5DA6 /* Colors.xcassets */,
 				B605636126E333C100C5A750 /* Assets */,
 				B6116FCD26E0008A00898B1A /* AppDelegate.swift */,
 				B6116FCF26E0008A00898B1A /* SceneDelegate.swift */,
@@ -596,7 +593,6 @@
 				8AFFA3D126E2A7010005C230 /* GoogleService-Info.plist in Resources */,
 				B605637726E333C100C5A750 /* Raleway-BoldItalic.ttf in Resources */,
 				B605638426E333C100C5A750 /* Raleway-Black.ttf in Resources */,
-				8A620D0F26E9189D006E5DA6 /* Colors.xcassets in Resources */,
 				B605637926E333C100C5A750 /* Raleway-ThinItalic.ttf in Resources */,
 				B605637B26E333C100C5A750 /* Raleway-Medium.ttf in Resources */,
 				B605638126E333C100C5A750 /* Raleway-SemiBoldItalic.ttf in Resources */,
